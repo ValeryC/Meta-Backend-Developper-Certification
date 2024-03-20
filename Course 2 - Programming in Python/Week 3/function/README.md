@@ -44,3 +44,4 @@ for greeting in greetings:
 ```
 
 Each of these paradigms has its own strengths and weaknesses, and they are often used together in the same program. For example, Python supports both procedural and object-oriented programming, and it has some features of functional programming as well. The choice of paradigm often depends on the specific needs of the project.
+
